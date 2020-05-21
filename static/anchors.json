@@ -601,8 +601,8 @@
         "domain": "www.anchormxn.com",
         "website": "https://www.anchormxn.com/",
         "support": "support@anchormxn.com",
-        "logo": "unknown",
-        "color": "#8d9075",
+        "logo": "mxn",
+        "color": "#cfd8df",
         "displayName": "Mexican Peso",
         "assets": [
             {
@@ -618,7 +618,7 @@
         "domain": "ntokens.com",
         "website": "https://ntokens.com",
         "support": "contact@ntokens.com",
-        "logo": "unknown",
+        "logo": "brl",
         "color": "#8d9075",
         "displayName": "Brazilian Real",
         "assets": [
